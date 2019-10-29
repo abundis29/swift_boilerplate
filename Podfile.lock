@@ -1,0 +1,20 @@
+PODS:
+  - IoniconsKit (1.2.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - IoniconsKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - IoniconsKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  IoniconsKit: 97db493dc2dd21f4959daec1b155f718e46b5916
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 6a92f95295d787f1af1c4ca19766dac717d51c72
+
+COCOAPODS: 1.8.3

@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-boilerplate/Pods-boilerplate-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IoniconsKit/IoniconsKit.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
